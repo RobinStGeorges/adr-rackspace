@@ -16,7 +16,8 @@ How Rackspace Now Uses MapReduce and Hadoop to Query Terabytes of Data
 VERSION 1 : Début / systeme de fiihciers stoqués su chaques machines
 ======
 
-  * un contexte, la problématiques, les cas d’utilisation 	
+  * un contexte, la problématiques, les cas d’utilisation
+	Les ingénieurs ont besoin d'avoir les logs des servers afin d'aider à resoudre les problème le plus vite possible	
   * les scénarios d’attribut de qualité mis en avant
   * des vues de structures architecturales pertinentes au regard des attributs choisis
 
@@ -25,6 +26,7 @@ VERSION 2 : Système MySql basé sur des bases de données relationnel
 ======
 
   * un contexte, la problématiques, les cas d’utilisation 
+	La version précédente prend trop de temps car manuel, besoin d'une solution automatique 
   * les scénarios d’attribut de qualité mis en avant
   * des vues de structures architecturales pertinentes au regard des attributs choisis
 
@@ -33,6 +35,7 @@ VERSION 3 : Solution Hadoop
 ======
 
   * un contexte, la problématiques, les cas d’utilisation 
+	les requetes et les logs stoqués ralentissent les serveurs
   * les scénarios d’attribut de qualité mis en avant
   * des vues de structures architecturales pertinentes au regard des attributs choisis
 
