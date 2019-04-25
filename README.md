@@ -25,6 +25,7 @@ Il s'agit d'un systeme basic simple à mettre en place.
 
 * Vues de structures architecturales pertinentes au regard des attributs choisis
 
+![](./illustrationV1.PNG)
 
 VERSION 2 : Système MySql basé sur des bases de données relationnel
 ======
