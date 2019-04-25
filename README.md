@@ -14,6 +14,11 @@ Les logs sont stoqués sur chaques serveurs dans des fichiers textes et accédés à
 Après un certain nombre de cerveur, le travail devient fastidieux et consomme beaucoup de temps	
 
  * cas d’utilisation
+
+* un contexte, la problématiques, les cas d’utilisation
+ * un contexte
+ * la problématiques
+ * cas d’utilisation
 	
 * les scénarios d’attribut de qualité mis en avant
 * des vues de structures architecturales pertinentes au regard des attributs choisis
