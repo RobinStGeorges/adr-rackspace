@@ -52,6 +52,7 @@ Simplicité
 
 * Vues de structures architecturales pertinentes au regard des attributs choisis
 
+![](./v2.PNG)
 
 VERSION 3 : Solution Hadoop
 ======
