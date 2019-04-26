@@ -52,7 +52,7 @@ Simplicité
 
 * Vues de structures architecturales pertinentes au regard des attributs choisis
 
-![](./v2.PNG)
+![](./v2.png)
 
 VERSION 3 : Solution Hadoop
 ======
@@ -77,3 +77,4 @@ performance, stabilité
 
 * Vues de structures architecturales pertinentes au regard des attributs choisis
 
+![](./v3.png)
